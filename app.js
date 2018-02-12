@@ -38,7 +38,8 @@ angular.module('ShoppingListCheckOff', [])
             { name: "Bread",  quantity: "3 pcs" },
             { name: "Olive oil",  quantity: "1 bottle" },
             { name: "Potato", quantity: "1 bag" },
-            { name: "Cheese", quantity: "2 pcs" }
+            { name: "Cheese", quantity: "2 pcs" },
+            {name: "Coffee", quantity: "1 bag"}
         ];
         var boughtItems = [];
     
